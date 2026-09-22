@@ -1,0 +1,27 @@
+{
+    "model": "Artificial Neural Network",
+    "features": [
+        "Store",
+        "Holiday_Flag",
+        "Temperature",
+        "Fuel_Price",
+        "CPI",
+        "Unemployment",
+        "Year",
+        "Month",
+        "Week",
+        "Quarter",
+        "DayOfWeek",
+        "Lag_1",
+        "Lag_2",
+        "Lag_3",
+        "Lag_4",
+        "Lag_12",
+        "Rolling_Mean_4",
+        "Rolling_Mean_12"
+    ],
+    "target": "Weekly_Sales",
+    "input_features": 18,
+    "tensorflow_version": "2.19.0",
+    "training_date": "2026-09-22 15:43:04.297996"
+}

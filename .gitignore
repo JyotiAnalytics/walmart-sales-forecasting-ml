@@ -1,0 +1,16 @@
+# Trained models & scalers (large files — regenerate locally by running WALMART.PY)
+*.joblib
+*.keras
+*.h5
+
+# Local editor / IDE config — not part of the project
+settings.json
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

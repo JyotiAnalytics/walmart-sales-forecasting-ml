@@ -1,0 +1,31 @@
+{
+    "model": "RandomForestRegressor",
+    "features": [
+        "Store",
+        "Holiday_Flag",
+        "Temperature",
+        "Fuel_Price",
+        "CPI",
+        "Unemployment",
+        "Year",
+        "Month",
+        "Week",
+        "Quarter",
+        "DayOfWeek",
+        "Lag_1",
+        "Lag_2",
+        "Lag_3",
+        "Lag_4",
+        "Lag_12",
+        "Rolling_Mean_4",
+        "Rolling_Mean_12"
+    ],
+    "target": "Weekly_Sales",
+    "n_estimators": 300,
+    "max_depth": 20,
+    "random_state": 42,
+    "training_date": "2026-09-22 15:42:19.177706",
+    "python_version": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+    "sklearn_version": "1.8.0",
+    "joblib_version": "1.5.3"
+}

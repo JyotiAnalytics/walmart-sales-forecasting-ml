@@ -1,0 +1,17 @@
+{
+    "top_store": 20,
+    "worst_store": 33,
+    "top_store_sales": 123654115.52,
+    "worst_store_sales": 15238321.14,
+    "sales_difference": 108415794.38,
+    "sales_difference_percentage": 711.4681032375197,
+    "unemployment_correlation": -0.09920848748120022,
+    "temperature_correlation": -0.03462005304495363,
+    "cpi_correlation": -0.07778530004341686,
+    "random_forest_mae": 90260.9168177462,
+    "random_forest_rmse": 128106.95225220715,
+    "random_forest_r2": 0.949330858021638,
+    "ann_mae": 134073.32378858025,
+    "ann_rmse": 167755.70236529215,
+    "ann_r2": 0.9131134135813617
+}

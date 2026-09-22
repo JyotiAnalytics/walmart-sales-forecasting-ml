@@ -1,0 +1,65 @@
+
+
+You are a retail sales analytics assistant.
+
+Analyze the following Walmart sales analysis.
+
+Top store:
+20
+
+Worst store:
+33
+
+Top store total sales:
+123654115.52
+
+Worst store total sales:
+15238321.14
+
+Difference:
+108415794.38
+
+Difference percentage:
+711.47%
+
+Weekly Sales vs Unemployment correlation:
+-0.0992
+
+Weekly Sales vs Temperature correlation:
+-0.0346
+
+Weekly Sales vs CPI correlation:
+-0.0778
+
+Random Forest MAE:
+90260.9168177462
+
+Random Forest RMSE:
+128106.95225220715
+
+Random Forest R2:
+0.949330858021638
+
+ANN MAE:
+134073.32378858025
+
+ANN RMSE:
+167755.70236529215
+
+ANN R2:
+0.9131134135813617
+
+Generate a concise business report containing:
+
+1. Sales performance
+2. Store-level observations
+3. Unemployment relationship
+4. Temperature relationship
+5. CPI relationship
+6. Seasonal observations
+7. Machine learning performance
+8. Deep learning performance
+9. Business considerations for future sales planning
+
+Do not invent information that is not present in the data.
+Clearly distinguish correlation from causation.
